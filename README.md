@@ -4,6 +4,11 @@
 
 <br>
 
+<p align="center">
+🤖 세상의 모든 것을 움직이게 하는 엔지니어 석윤정입니다!🏃‍♀️
+🤖 I’m Yun Jeong Seok — an engineer who brings motion to everything in the world! 🏃‍♀️
+</p>
+
 <!-- 🧑‍💻 Contact -->
 <div align="center">
   <h2>🧑‍💻 Contact Me 🧑‍💻</h2>
