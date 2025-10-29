@@ -21,6 +21,7 @@
   <br>
 
   <!-- 💻 Language / Framework -->
+  <h3>Language / Framework</h3>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
@@ -28,11 +29,13 @@
   <br><br>
 
   <!-- 🧩 OS / Environment -->
+  <h3>OS / Environment</h3>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
   <br><br>
 
   <!-- 🧰 Tools -->
+  <h3>Tools</h3>
   <img src="https://img.shields.io/badge/Matlab-0076a8?style=flat-square&logo=Matlab&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
@@ -63,8 +66,8 @@
 <div align="center">
   <h2>📊 GitHub Stats 📊</h2>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=YunJeong00200&show_icons=true&theme=algolia" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunJeong00200&layout=compact&theme=algolia" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=YunJeong00200&show_icons=true&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunJeong00200&layout=compact&theme=tokyonight" height="150">
 </div>
 
 <br>
