@@ -6,6 +6,7 @@
 
 <p align="center">
 🤖 세상의 모든 것을 움직이게 하는 엔지니어 석윤정입니다!🏃‍♀️
+<br>
 🤖 I’m Yun Jeong Seok — an engineer who brings motion to everything in the world! 🏃‍♀️
 </p>
 
@@ -14,7 +15,7 @@
   <h2>🧑‍💻 Contact Me 🧑‍💻</h2>
   <br>
   <a href="mailto:amlcnjeong00@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/amlcnjeong00@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white">
   </a>
 </div>
 
